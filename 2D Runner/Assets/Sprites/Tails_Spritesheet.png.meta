@@ -1,0 +1,8047 @@
+fileFormatVersion: 2
+guid: ae43db873b5fe7247ba134b95bdcd2e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6131214597355532608
+    second: Tails_Spritesheet_0
+  - first:
+      213: -4041475473612616161
+    second: Tails_Spritesheet_1
+  - first:
+      213: -4236711490108941277
+    second: Tails_Spritesheet_2
+  - first:
+      213: -8953297567881305970
+    second: Tails_Spritesheet_3
+  - first:
+      213: 3984797607698996302
+    second: Tails_Spritesheet_4
+  - first:
+      213: -324538384539302140
+    second: Tails_Spritesheet_5
+  - first:
+      213: -1281300735168081332
+    second: Tails_Spritesheet_6
+  - first:
+      213: -342374619536389351
+    second: Tails_Spritesheet_7
+  - first:
+      213: -3147288010247212831
+    second: Tails_Spritesheet_8
+  - first:
+      213: -3195165482451982315
+    second: Tails_Spritesheet_9
+  - first:
+      213: -6056339820105631611
+    second: Tails_Spritesheet_10
+  - first:
+      213: -3563941824986921573
+    second: Tails_Spritesheet_11
+  - first:
+      213: -4023882164603159148
+    second: Tails_Spritesheet_12
+  - first:
+      213: -1518769077416464771
+    second: Tails_Spritesheet_13
+  - first:
+      213: -7678429102449037436
+    second: Tails_Spritesheet_14
+  - first:
+      213: -5773872370054827292
+    second: Tails_Spritesheet_15
+  - first:
+      213: 122865452885389232
+    second: Tails_Spritesheet_16
+  - first:
+      213: -7528678805522393322
+    second: Tails_Spritesheet_17
+  - first:
+      213: 5870792929377297193
+    second: Tails_Spritesheet_18
+  - first:
+      213: 3461668560781271292
+    second: Tails_Spritesheet_19
+  - first:
+      213: 158687868921954088
+    second: Tails_Spritesheet_20
+  - first:
+      213: 4371786469635484011
+    second: Tails_Spritesheet_21
+  - first:
+      213: 3586063914392025341
+    second: Tails_Spritesheet_22
+  - first:
+      213: 4195820133615554112
+    second: Tails_Spritesheet_23
+  - first:
+      213: -8788710097251760506
+    second: Tails_Spritesheet_24
+  - first:
+      213: 2123474150907016617
+    second: Tails_Spritesheet_25
+  - first:
+      213: 3422012165035041172
+    second: Tails_Spritesheet_26
+  - first:
+      213: -916177672032557116
+    second: Tails_Spritesheet_27
+  - first:
+      213: 4794757999133969173
+    second: Tails_Spritesheet_28
+  - first:
+      213: -6574669869639228249
+    second: Tails_Spritesheet_29
+  - first:
+      213: 2032106432983769129
+    second: Tails_Spritesheet_30
+  - first:
+      213: 8106048316506620020
+    second: Tails_Spritesheet_31
+  - first:
+      213: 1114764929251303578
+    second: Tails_Spritesheet_32
+  - first:
+      213: 1128400827503222194
+    second: Tails_Spritesheet_33
+  - first:
+      213: 4011190565339947436
+    second: Tails_Spritesheet_34
+  - first:
+      213: -1830088748208716057
+    second: Tails_Spritesheet_35
+  - first:
+      213: 3382017299782982826
+    second: Tails_Spritesheet_36
+  - first:
+      213: -2388763823622319241
+    second: Tails_Spritesheet_37
+  - first:
+      213: -6886709843548054818
+    second: Tails_Spritesheet_38
+  - first:
+      213: -3696601611352888892
+    second: Tails_Spritesheet_39
+  - first:
+      213: -6442815347920689640
+    second: Tails_Spritesheet_40
+  - first:
+      213: 8609768063166365201
+    second: Tails_Spritesheet_41
+  - first:
+      213: 5405338560268308575
+    second: Tails_Spritesheet_42
+  - first:
+      213: -1586838068291088843
+    second: Tails_Spritesheet_43
+  - first:
+      213: -2066657377515243409
+    second: Tails_Spritesheet_44
+  - first:
+      213: -1287617916076485405
+    second: Tails_Spritesheet_45
+  - first:
+      213: -7515768840286045865
+    second: Tails_Spritesheet_46
+  - first:
+      213: -6668528857123779336
+    second: Tails_Spritesheet_47
+  - first:
+      213: 4786898800745494512
+    second: Tails_Spritesheet_48
+  - first:
+      213: 2075178528830942014
+    second: Tails_Spritesheet_49
+  - first:
+      213: -5160017495375910514
+    second: Tails_Spritesheet_50
+  - first:
+      213: 1016306739829236187
+    second: Tails_Spritesheet_51
+  - first:
+      213: 6114816372920779942
+    second: Tails_Spritesheet_52
+  - first:
+      213: -4334912579729125534
+    second: Tails_Spritesheet_53
+  - first:
+      213: 3619012693949512276
+    second: Tails_Spritesheet_54
+  - first:
+      213: 3268600891247933413
+    second: Tails_Spritesheet_55
+  - first:
+      213: -7056717823997470880
+    second: Tails_Spritesheet_56
+  - first:
+      213: -1836017688895121765
+    second: Tails_Spritesheet_57
+  - first:
+      213: -6983943048949066653
+    second: Tails_Spritesheet_58
+  - first:
+      213: 4041522603210936009
+    second: Tails_Spritesheet_59
+  - first:
+      213: -545632400309736082
+    second: Tails_Spritesheet_60
+  - first:
+      213: -7843973565629715539
+    second: Tails_Spritesheet_61
+  - first:
+      213: -8925736581682997719
+    second: Tails_Spritesheet_62
+  - first:
+      213: -753891440430673304
+    second: Tails_Spritesheet_63
+  - first:
+      213: -6892317328908794357
+    second: Tails_Spritesheet_64
+  - first:
+      213: -8629215938354473586
+    second: Tails_Spritesheet_65
+  - first:
+      213: 5661173597225064199
+    second: Tails_Spritesheet_66
+  - first:
+      213: -1657481744396502188
+    second: Tails_Spritesheet_67
+  - first:
+      213: 5339836131710964278
+    second: Tails_Spritesheet_68
+  - first:
+      213: -476508468996921585
+    second: Tails_Spritesheet_69
+  - first:
+      213: -4039800364563837234
+    second: Tails_Spritesheet_70
+  - first:
+      213: 6622153311453715025
+    second: Tails_Spritesheet_71
+  - first:
+      213: 8124166048800980545
+    second: Tails_Spritesheet_72
+  - first:
+      213: 95963360643875025
+    second: Tails_Spritesheet_73
+  - first:
+      213: -7404545729321213266
+    second: Tails_Spritesheet_74
+  - first:
+      213: -1579584721988661271
+    second: Tails_Spritesheet_75
+  - first:
+      213: -7221976243651508139
+    second: Tails_Spritesheet_76
+  - first:
+      213: 1759025336208600012
+    second: Tails_Spritesheet_77
+  - first:
+      213: 898218568072696423
+    second: Tails_Spritesheet_78
+  - first:
+      213: -45261852703874414
+    second: Tails_Spritesheet_79
+  - first:
+      213: 9216103827959041201
+    second: Tails_Spritesheet_80
+  - first:
+      213: 3301463447139170711
+    second: Tails_Spritesheet_81
+  - first:
+      213: -8392075660327905980
+    second: Tails_Spritesheet_82
+  - first:
+      213: 809909240092578311
+    second: Tails_Spritesheet_83
+  - first:
+      213: 377380067302234149
+    second: Tails_Spritesheet_84
+  - first:
+      213: 4744073293420076346
+    second: Tails_Spritesheet_85
+  - first:
+      213: 6564289560583261423
+    second: Tails_Spritesheet_86
+  - first:
+      213: 4413286868392212613
+    second: Tails_Spritesheet_87
+  - first:
+      213: 5438599547521692826
+    second: Tails_Spritesheet_88
+  - first:
+      213: -4397824956127837987
+    second: Tails_Spritesheet_89
+  - first:
+      213: -167215182303603630
+    second: Tails_Spritesheet_90
+  - first:
+      213: -7393388169708831605
+    second: Tails_Spritesheet_91
+  - first:
+      213: 8377714096785229133
+    second: Tails_Spritesheet_92
+  - first:
+      213: -5041447047823905213
+    second: Tails_Spritesheet_93
+  - first:
+      213: 4931119505385216351
+    second: Tails_Spritesheet_94
+  - first:
+      213: 3320763925769777434
+    second: Tails_Spritesheet_95
+  - first:
+      213: -2853501466758370058
+    second: Tails_Spritesheet_96
+  - first:
+      213: 6527460911741354361
+    second: Tails_Spritesheet_97
+  - first:
+      213: 1027445044517050038
+    second: Tails_Spritesheet_98
+  - first:
+      213: 2055016113710703364
+    second: Tails_Spritesheet_99
+  - first:
+      213: -6358429692671487193
+    second: Tails_Spritesheet_100
+  - first:
+      213: -8653580655031660740
+    second: Tails_Spritesheet_101
+  - first:
+      213: 7529839743200579830
+    second: Tails_Spritesheet_102
+  - first:
+      213: -7032507669756559594
+    second: Tails_Spritesheet_103
+  - first:
+      213: 1550734682171372461
+    second: Tails_Spritesheet_104
+  - first:
+      213: -6266494672053551440
+    second: Tails_Spritesheet_105
+  - first:
+      213: 5299907715525460787
+    second: Tails_Spritesheet_106
+  - first:
+      213: 5916922139646033581
+    second: Tails_Spritesheet_107
+  - first:
+      213: -138446771969061540
+    second: Tails_Spritesheet_108
+  - first:
+      213: 2509447627428329036
+    second: Tails_Spritesheet_109
+  - first:
+      213: 1610948245601339271
+    second: Tails_Spritesheet_110
+  - first:
+      213: 716992147878299169
+    second: Tails_Spritesheet_111
+  - first:
+      213: 4964316969070797580
+    second: Tails_Spritesheet_112
+  - first:
+      213: 561755148007352053
+    second: Tails_Spritesheet_113
+  - first:
+      213: -8182904121251374059
+    second: Tails_Spritesheet_114
+  - first:
+      213: 3764434043368027520
+    second: Tails_Spritesheet_115
+  - first:
+      213: 3883512459514008180
+    second: Tails_Spritesheet_116
+  - first:
+      213: -2279052623681724877
+    second: Tails_Spritesheet_117
+  - first:
+      213: 4057992671021575861
+    second: Tails_Spritesheet_118
+  - first:
+      213: -8279716002354062505
+    second: Tails_Spritesheet_119
+  - first:
+      213: 1041244907498279982
+    second: Tails_Spritesheet_120
+  - first:
+      213: -8709880295443006552
+    second: Tails_Spritesheet_121
+  - first:
+      213: -4212548817468211542
+    second: Tails_Spritesheet_122
+  - first:
+      213: -681518866775757844
+    second: Tails_Spritesheet_123
+  - first:
+      213: -995080622828004683
+    second: Tails_Spritesheet_124
+  - first:
+      213: 6606647709056441311
+    second: Tails_Spritesheet_125
+  - first:
+      213: 1558489241214582387
+    second: Tails_Spritesheet_126
+  - first:
+      213: 9219222558796552247
+    second: Tails_Spritesheet_127
+  - first:
+      213: -3885344259366701993
+    second: Tails_Spritesheet_128
+  - first:
+      213: -529735583407149817
+    second: Tails_Spritesheet_129
+  - first:
+      213: 9031345589207806117
+    second: Tails_Spritesheet_130
+  - first:
+      213: 7859536289255406583
+    second: Tails_Spritesheet_131
+  - first:
+      213: -831382971365776164
+    second: Tails_Spritesheet_132
+  - first:
+      213: -2667110397396361437
+    second: Tails_Spritesheet_133
+  - first:
+      213: 3407550010787592312
+    second: Tails_Spritesheet_134
+  - first:
+      213: -8492606210116859449
+    second: Tails_Spritesheet_135
+  - first:
+      213: -2157046424950892128
+    second: Tails_Spritesheet_136
+  - first:
+      213: 2559443292229746698
+    second: Tails_Spritesheet_137
+  - first:
+      213: -91051499292728500
+    second: Tails_Spritesheet_138
+  - first:
+      213: 2509971459325168430
+    second: Tails_Spritesheet_139
+  - first:
+      213: 7624162598582942398
+    second: Tails_Spritesheet_140
+  - first:
+      213: -7658078027721771335
+    second: Tails_Spritesheet_141
+  - first:
+      213: 3782844600698273535
+    second: Tails_Spritesheet_142
+  - first:
+      213: 7197217883233456065
+    second: Tails_Spritesheet_143
+  - first:
+      213: 5966611706070198078
+    second: Tails_Spritesheet_144
+  - first:
+      213: -4176843217107781730
+    second: Tails_Spritesheet_145
+  - first:
+      213: -6703890382382204097
+    second: Tails_Spritesheet_146
+  - first:
+      213: 4123655416846868164
+    second: Tails_Spritesheet_147
+  - first:
+      213: -1850237532897916677
+    second: Tails_Spritesheet_148
+  - first:
+      213: -80612477206782045
+    second: Tails_Spritesheet_149
+  - first:
+      213: 2031633660439207768
+    second: Tails_Spritesheet_150
+  - first:
+      213: -7602126177539468042
+    second: Tails_Spritesheet_151
+  - first:
+      213: 3159081519243290598
+    second: Tails_Spritesheet_152
+  - first:
+      213: 2865703664008769809
+    second: Tails_Spritesheet_153
+  - first:
+      213: 8424197488237761195
+    second: Tails_Spritesheet_154
+  - first:
+      213: 2408815221063084211
+    second: Tails_Spritesheet_155
+  - first:
+      213: -4947428402200696699
+    second: Tails_Spritesheet_156
+  - first:
+      213: -7125483528057860684
+    second: Tails_Spritesheet_157
+  - first:
+      213: -2064492713068967805
+    second: Tails_Spritesheet_158
+  - first:
+      213: 5789224202149262942
+    second: Tails_Spritesheet_159
+  - first:
+      213: -6730668121487376317
+    second: Tails_Spritesheet_160
+  - first:
+      213: 5168225350810879799
+    second: Tails_Spritesheet_161
+  - first:
+      213: -7369270690169645620
+    second: Tails_Spritesheet_162
+  - first:
+      213: -1421429663533280598
+    second: Tails_Spritesheet_163
+  - first:
+      213: -7529081089682175454
+    second: Tails_Spritesheet_164
+  - first:
+      213: -3585821199176912020
+    second: Tails_Spritesheet_165
+  - first:
+      213: 5890410963542663404
+    second: Tails_Spritesheet_166
+  - first:
+      213: 5615221864515364767
+    second: Tails_Spritesheet_167
+  - first:
+      213: -6765634378934312794
+    second: Tails_Spritesheet_168
+  - first:
+      213: -5806558814466146248
+    second: Tails_Spritesheet_169
+  - first:
+      213: 2706944056668877177
+    second: Tails_Spritesheet_170
+  - first:
+      213: -5926714832181944975
+    second: Tails_Spritesheet_171
+  - first:
+      213: 4686887535919032053
+    second: Tails_Spritesheet_172
+  - first:
+      213: -5093355236284756525
+    second: Tails_Spritesheet_173
+  - first:
+      213: 1452952414176449024
+    second: Tails_Spritesheet_174
+  - first:
+      213: 2359464000445393412
+    second: Tails_Spritesheet_175
+  - first:
+      213: -4763587327378042940
+    second: Tails_Spritesheet_176
+  - first:
+      213: 8130647114672262793
+    second: Tails_Spritesheet_177
+  - first:
+      213: -3923242818834985754
+    second: Tails_Spritesheet_178
+  - first:
+      213: 8925157758585037143
+    second: Tails_Spritesheet_179
+  - first:
+      213: 4646224172681452052
+    second: Tails_Spritesheet_180
+  - first:
+      213: -8229320956838632969
+    second: Tails_Spritesheet_181
+  - first:
+      213: 1950559867091433527
+    second: Tails_Spritesheet_182
+  - first:
+      213: 7178006164632753559
+    second: Tails_Spritesheet_183
+  - first:
+      213: -3874384659360080674
+    second: Tails_Spritesheet_184
+  - first:
+      213: 7782860815776736386
+    second: Tails_Spritesheet_185
+  - first:
+      213: 3180029332180647590
+    second: Tails_Spritesheet_186
+  - first:
+      213: 1184098629425942227
+    second: Tails_Spritesheet_187
+  - first:
+      213: -6086856273434648002
+    second: Tails_Spritesheet_188
+  - first:
+      213: -5503241784062486672
+    second: Tails_Spritesheet_189
+  - first:
+      213: 7424599205207506867
+    second: Tails_Spritesheet_190
+  - first:
+      213: 3671566763104574955
+    second: Tails_Spritesheet_191
+  - first:
+      213: -449108119928409599
+    second: Tails_Spritesheet_192
+  - first:
+      213: 2253752049534896504
+    second: Tails_Spritesheet_193
+  - first:
+      213: 3314135081530925231
+    second: Tails_Spritesheet_194
+  - first:
+      213: 408885932921072113
+    second: Tails_Spritesheet_195
+  - first:
+      213: 1682093207804898323
+    second: Tails_Spritesheet_196
+  - first:
+      213: 8584977466911379705
+    second: Tails_Spritesheet_197
+  - first:
+      213: 2900278209831717872
+    second: Tails_Spritesheet_198
+  - first:
+      213: 4435277402631402337
+    second: Tails_Spritesheet_199
+  - first:
+      213: -4824647270934423166
+    second: Tails_Spritesheet_200
+  - first:
+      213: 575068737105160918
+    second: Tails_Spritesheet_201
+  - first:
+      213: -1685277375178379053
+    second: Tails_Spritesheet_202
+  - first:
+      213: -2043351212934362256
+    second: Tails_Spritesheet_203
+  - first:
+      213: -2667096692809900792
+    second: Tails_Spritesheet_204
+  - first:
+      213: 6046895553001427041
+    second: Tails_Spritesheet_205
+  - first:
+      213: 8127892219651657829
+    second: Tails_Spritesheet_206
+  - first:
+      213: -4680424701483138134
+    second: Tails_Spritesheet_207
+  - first:
+      213: -8612365365511154340
+    second: Tails_Spritesheet_208
+  - first:
+      213: -5348828466078024718
+    second: Tails_Spritesheet_209
+  - first:
+      213: -4174868250954832422
+    second: Tails_Spritesheet_210
+  - first:
+      213: -1086371441367080259
+    second: Tails_Spritesheet_211
+  - first:
+      213: 3313957850500728566
+    second: Tails_Spritesheet_212
+  - first:
+      213: -2453921782714300970
+    second: Tails_Spritesheet_213
+  - first:
+      213: 4917951568926674379
+    second: Tails_Spritesheet_214
+  - first:
+      213: -6105627603633115158
+    second: Tails_Spritesheet_215
+  - first:
+      213: -3398467216989254975
+    second: Tails_Spritesheet_216
+  - first:
+      213: -6673877131057460764
+    second: Tails_Spritesheet_217
+  - first:
+      213: 1156492743968077874
+    second: Tails_Spritesheet_218
+  - first:
+      213: -394105977966169404
+    second: Tails_Spritesheet_219
+  - first:
+      213: 653476801328146850
+    second: Tails_Spritesheet_220
+  - first:
+      213: 4014803028255662460
+    second: Tails_Spritesheet_221
+  - first:
+      213: 3774905146204424990
+    second: Tails_Spritesheet_222
+  - first:
+      213: -1288524882772166218
+    second: Tails_Spritesheet_223
+  - first:
+      213: -5927386590329016918
+    second: Tails_Spritesheet_224
+  - first:
+      213: -8158989716058220827
+    second: Tails_Spritesheet_225
+  - first:
+      213: -8806246833392365282
+    second: Tails_Spritesheet_226
+  - first:
+      213: 2733882528057431920
+    second: Tails_Spritesheet_227
+  - first:
+      213: 5477434029932111475
+    second: Tails_Spritesheet_228
+  - first:
+      213: -8922088281535118730
+    second: Tails_Spritesheet_229
+  - first:
+      213: 6104447534039629811
+    second: Tails_Spritesheet_230
+  - first:
+      213: 8802498710224686715
+    second: Tails_Spritesheet_231
+  - first:
+      213: -5192772205071328454
+    second: Tails_Spritesheet_232
+  - first:
+      213: 3736978680370905756
+    second: Tails_Spritesheet_233
+  - first:
+      213: -8518587886770774192
+    second: Tails_Spritesheet_234
+  - first:
+      213: -929913649787955077
+    second: Tails_Spritesheet_235
+  - first:
+      213: 246942485366695691
+    second: Tails_Spritesheet_236
+  - first:
+      213: -1382021987400677065
+    second: Tails_Spritesheet_237
+  - first:
+      213: -843032153641668306
+    second: Tails_Spritesheet_238
+  - first:
+      213: 6522961520315749914
+    second: Tails_Spritesheet_239
+  - first:
+      213: -7715174683934611767
+    second: Tails_Spritesheet_240
+  - first:
+      213: -4889064181500804578
+    second: Tails_Spritesheet_241
+  - first:
+      213: 708495453139537274
+    second: Tails_Spritesheet_242
+  - first:
+      213: 8580903759311139726
+    second: Tails_Spritesheet_243
+  - first:
+      213: -2154860810964310276
+    second: Tails_Spritesheet_244
+  - first:
+      213: 4625673952720475449
+    second: Tails_Spritesheet_245
+  - first:
+      213: -4616990364875469127
+    second: Tails_Spritesheet_246
+  - first:
+      213: -8525082745422489219
+    second: Tails_Spritesheet_247
+  - first:
+      213: 7276108676789723449
+    second: Tails_Spritesheet_248
+  - first:
+      213: -2465213866045097382
+    second: Tails_Spritesheet_249
+  - first:
+      213: 4538322246445894710
+    second: Tails_Spritesheet_250
+  - first:
+      213: 685682496059900768
+    second: Tails_Spritesheet_251
+  - first:
+      213: -8423179178131060336
+    second: Tails_Spritesheet_252
+  - first:
+      213: -5076275090376422789
+    second: Tails_Spritesheet_253
+  - first:
+      213: -3288100132639171989
+    second: Tails_Spritesheet_254
+  - first:
+      213: 1707495332056200919
+    second: Tails_Spritesheet_255
+  - first:
+      213: 3410453140592595861
+    second: Tails_Spritesheet_256
+  - first:
+      213: -4764277489790464578
+    second: Tails_Spritesheet_257
+  - first:
+      213: 8783648047067526309
+    second: Tails_Spritesheet_258
+  - first:
+      213: -6795198301070377923
+    second: Tails_Spritesheet_259
+  - first:
+      213: -4718824274171056640
+    second: Tails_Spritesheet_260
+  - first:
+      213: 6996518151564386376
+    second: Tails_Spritesheet_261
+  - first:
+      213: -3699248977557995411
+    second: Tails_Spritesheet_262
+  - first:
+      213: -4185819713305859017
+    second: Tails_Spritesheet_263
+  - first:
+      213: -2734008078575061102
+    second: Tails_Spritesheet_264
+  - first:
+      213: -1001662708284467429
+    second: Tails_Spritesheet_265
+  - first:
+      213: 3171071461845119780
+    second: Tails_Spritesheet_266
+  - first:
+      213: 7456540557052022533
+    second: Tails_Spritesheet_267
+  - first:
+      213: -3561360091684373316
+    second: Tails_Spritesheet_268
+  - first:
+      213: -2754783237404150595
+    second: Tails_Spritesheet_269
+  - first:
+      213: 1808453156415025014
+    second: Tails_Spritesheet_270
+  - first:
+      213: -8730019673161031647
+    second: Tails_Spritesheet_271
+  - first:
+      213: -5690424003254803973
+    second: Tails_Spritesheet_272
+  - first:
+      213: 8085416746083083506
+    second: Tails_Spritesheet_273
+  - first:
+      213: 1065394158859536535
+    second: Tails_Spritesheet_274
+  - first:
+      213: 5164840682850542499
+    second: Tails_Spritesheet_275
+  - first:
+      213: -5691010117560441075
+    second: Tails_Spritesheet_276
+  - first:
+      213: 6487094268396949938
+    second: Tails_Spritesheet_277
+  - first:
+      213: -9162403700391127966
+    second: Tails_Spritesheet_278
+  - first:
+      213: -1071954536971509350
+    second: Tails_Spritesheet_279
+  - first:
+      213: 5078443788008072088
+    second: Tails_Spritesheet_280
+  - first:
+      213: 7318977295722335631
+    second: Tails_Spritesheet_281
+  - first:
+      213: 3882067301488311076
+    second: Tails_Spritesheet_282
+  - first:
+      213: -6513130775523975256
+    second: Tails_Spritesheet_283
+  - first:
+      213: 8651243901471470898
+    second: Tails_Spritesheet_284
+  - first:
+      213: -6574097532992322031
+    second: Tails_Spritesheet_285
+  - first:
+      213: 2495081642351933357
+    second: Tails_Spritesheet_286
+  - first:
+      213: 1929260501771919074
+    second: Tails_Spritesheet_287
+  - first:
+      213: 8771123796737584885
+    second: Tails_Spritesheet_288
+  - first:
+      213: -4323283605734946527
+    second: Tails_Spritesheet_289
+  - first:
+      213: 23853755541949559
+    second: Tails_Spritesheet_290
+  - first:
+      213: 8609715515824441323
+    second: Tails_Spritesheet_291
+  - first:
+      213: 3773440843590173225
+    second: Tails_Spritesheet_292
+  - first:
+      213: -2336957793434125067
+    second: Tails_Spritesheet_293
+  - first:
+      213: 401670708667292764
+    second: Tails_Spritesheet_294
+  - first:
+      213: -6326025789508402501
+    second: Tails_Spritesheet_295
+  - first:
+      213: -2573809546350497552
+    second: Tails_Spritesheet_296
+  - first:
+      213: -5630324118594777222
+    second: Tails_Spritesheet_297
+  - first:
+      213: -265689284666158672
+    second: Tails_Spritesheet_298
+  - first:
+      213: -8308204124048027521
+    second: Tails_Spritesheet_299
+  - first:
+      213: -761562832437064660
+    second: Tails_Spritesheet_300
+  - first:
+      213: 3904521609674429447
+    second: Tails_Spritesheet_301
+  - first:
+      213: 4944012957249989026
+    second: Tails_Spritesheet_302
+  - first:
+      213: -8917966115885708465
+    second: Tails_Spritesheet_303
+  - first:
+      213: 5114264227359036821
+    second: Tails_Spritesheet_304
+  - first:
+      213: 3258801855261597591
+    second: Tails_Spritesheet_305
+  - first:
+      213: 2610201488562701195
+    second: Tails_Spritesheet_306
+  - first:
+      213: -3095433053781050982
+    second: Tails_Spritesheet_307
+  - first:
+      213: -5982105945410733764
+    second: Tails_Spritesheet_308
+  - first:
+      213: -2837882931406230782
+    second: Tails_Spritesheet_309
+  - first:
+      213: -5151601135759920780
+    second: Tails_Spritesheet_310
+  - first:
+      213: 4493454765484729949
+    second: Tails_Spritesheet_311
+  - first:
+      213: 5973024699978415205
+    second: Tails_Spritesheet_312
+  - first:
+      213: 8806544519397300539
+    second: Tails_Spritesheet_313
+  - first:
+      213: -7100456003993419658
+    second: Tails_Spritesheet_314
+  - first:
+      213: -6490455952959165713
+    second: Tails_Spritesheet_315
+  - first:
+      213: 878875462489968579
+    second: Tails_Spritesheet_316
+  - first:
+      213: 4672707715058647404
+    second: Tails_Spritesheet_317
+  - first:
+      213: 7832538872773951870
+    second: Tails_Spritesheet_318
+  - first:
+      213: -5845223766586308344
+    second: Tails_Spritesheet_319
+  - first:
+      213: -103520671311846105
+    second: Tails_Spritesheet_320
+  - first:
+      213: -9131160877391010116
+    second: Tails_Spritesheet_321
+  - first:
+      213: 850927900856711879
+    second: Tails_Spritesheet_322
+  - first:
+      213: 938774020624279024
+    second: Tails_Spritesheet_323
+  - first:
+      213: -1098684501471215426
+    second: Tails_Spritesheet_324
+  - first:
+      213: -1398605209133189447
+    second: Tails_Spritesheet_325
+  - first:
+      213: 3211135498918432165
+    second: Tails_Spritesheet_326
+  - first:
+      213: 2807410505792741828
+    second: Tails_Spritesheet_327
+  - first:
+      213: -7683688513678167185
+    second: Tails_Spritesheet_328
+  - first:
+      213: 4732403541253730492
+    second: Tails_Spritesheet_329
+  - first:
+      213: -4617768207327290003
+    second: Tails_Spritesheet_330
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tails_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2363
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce066448d5c9e143949544e9896d0ad
+      internalID: -6131214597355532608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2363
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a6caac7dfea741a2624195c10c5ec
+      internalID: -4041475473612616161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2363
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f696da566729e74ea9a3a886bdd5102
+      internalID: -4236711490108941277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2363
+        width: 110
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ddaeb255b3684b917810325801125
+      internalID: -8953297567881305970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2372
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf24dbec1145349bd9f3a6632a0590
+      internalID: 3984797607698996302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2369
+        width: 129
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35c965f22f73242afd463d7f4ed243
+      internalID: -324538384539302140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2243
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171194b9929156b42812c5262b4d3a13
+      internalID: -1281300735168081332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2284
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc6bad97f0acd4abb7f878fa2acbc7
+      internalID: -342374619536389351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2284
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d399f6ef51d8645a78cdf7a0f7895b
+      internalID: -3147288010247212831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2305
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1e17586ebd444ab9336934338070b
+      internalID: -3195165482451982315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2282
+        width: 25
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4474926a5524764298d1751ad670106
+      internalID: -6056339820105631611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2279
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9418ce7b33fe42b882e63e24a9910
+      internalID: -3563941824986921573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1994
+        width: 116
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9157dc3f513e4d8dfa39ebc91d58e
+      internalID: -4023882164603159148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2243
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb6bfef8ab5a84490827172c2a064a
+      internalID: -1518769077416464771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2278
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a80e1a11b59d94294a0a5d57acab1f
+      internalID: -7678429102449037436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2278
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e24baac847d346bca0d0227a53855
+      internalID: -5773872370054827292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2251
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d827ca8a483f943a270a5048eb6cbb
+      internalID: 122865452885389232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2251
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3810e8c684d542863ee4553f2d796
+      internalID: -7528678805522393322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2256
+        width: 67
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58993c87d65bbe24e8b411ffb7c2de52
+      internalID: 5870792929377297193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2150
+        width: 551
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f0009964c84146b11e848504367aa
+      internalID: 3461668560781271292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2060
+        width: 309
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd8e4c7cd6bdd4d99a5eeed4e8bad5
+      internalID: 158687868921954088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1978
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716e5458ba336b54491775cd3d7ba240
+      internalID: 4371786469635484011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2019
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab1e6fb762e09b428ae83dbf1816690
+      internalID: 3586063914392025341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1937
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d7679674ee154c95c96b5b31b23c7
+      internalID: 4195820133615554112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2019
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b428e7886a08e4dbf4b57455d18275
+      internalID: -8788710097251760506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1978
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5cb86848d7ea34f96f5560039f0594
+      internalID: 2123474150907016617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1967
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c470db236ba45c4488a79d74b92aae2
+      internalID: 3422012165035041172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1978
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896582d01ef1764a83ad2f57d47f0f8
+      internalID: -916177672032557116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1978
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c4334f04c7e64d8bf5251f4687e0a
+      internalID: 4794757999133969173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1978
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17cd0fd523a98945a6c67212c2d3c5a
+      internalID: -6574669869639228249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1936
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e510c6a29eb58848beaf4713b0aa591
+      internalID: 2032106432983769129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1936
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6828d31e2de7543b4c8ec665d37930
+      internalID: 8106048316506620020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1936
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198c1f2d9ec36c4da0988876477afa7
+      internalID: 1114764929251303578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1937
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4113aaa65dff30947a2e795501c08273
+      internalID: 1128400827503222194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1937
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be46d67e6ed0644d932233fa1e8e56d
+      internalID: 4011190565339947436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1923
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36142370eb377e428045bd921289817
+      internalID: -1830088748208716057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1943
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09492bf2819a0439a36da366bc0e8f
+      internalID: 3382017299782982826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1895
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f399cbb2cac3b42b6aaed822952c02
+      internalID: -2388763823622319241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1895
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9897172cf0e194b4991c89bc8c3f6ada
+      internalID: -6886709843548054818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1895
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02186d221427cba4f886344fd31a185f
+      internalID: -3696601611352888892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1895
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb996dcabadd82458088d99627e8380
+      internalID: -6442815347920689640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1895
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad45b4e0fc2d894cb7ea9449f2fd4e1
+      internalID: 8609768063166365201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1895
+        width: 133
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87ae1443cd0c043aa0506d8b2363a9
+      internalID: 5405338560268308575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1930
+        width: 70
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3bd030dfad864fbcacace8356e46a
+      internalID: -1586838068291088843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1883
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f43d3ed79ab4148ad36f69bbdadf16
+      internalID: -2066657377515243409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1915
+        width: 74
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b645d47ea79f4799d2e3f3941e835
+      internalID: -1287617916076485405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1902
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4395acdcb3fa143be629c55f5b89b5
+      internalID: -7515768840286045865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1854
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267bff4bef31ee48a5add830d804e6d
+      internalID: -6668528857123779336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1854
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87e14b43697e14d8e23505d6435d42
+      internalID: 4786898800745494512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1854
+        width: 142
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f076b0dc3eacfa47a23fdc39b2e0f23
+      internalID: 2075178528830942014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1890
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b3d6d7190b3e4fafae6bb8a1d1ea6
+      internalID: -5160017495375910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1854
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e1f92ccc3a1f408ddc10fee9df50c
+      internalID: 1016306739829236187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1875
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716eea0ae370ad34f8b92b92d8e31c73
+      internalID: 6114816372920779942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1860
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d24ed7b80510458ee87cbee401999
+      internalID: -4334912579729125534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1819
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c3c79ac8ebb1843ade52d391c489de
+      internalID: 3619012693949512276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1803
+        width: 486
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e905c6b7738b344840f4dd9d4896ed
+      internalID: 3268600891247933413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1811
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c802a59dfed440a4e9305b42cdefb081
+      internalID: -7056717823997470880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1799
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4040a3109bd8ce54f831c7340aae6cbe
+      internalID: -1836017688895121765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1806
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b589dca609f04f903d06e16d0fc37
+      internalID: -6983943048949066653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1758
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205be14dc52565408760ff9b85b5136
+      internalID: 4041522603210936009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1758
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba36940e0824f6448c3cfba7e23ae24
+      internalID: -545632400309736082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1758
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407216e38db56de46aa9f6a9fcc0feae
+      internalID: -7843973565629715539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1758
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b464e8c568cde34492167326175f4b7
+      internalID: -8925736581682997719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1758
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3d8c2de81cb2845ac00d6238df563a
+      internalID: -753891440430673304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1758
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9cdd277aa49794ab8cee22be775665
+      internalID: -6892317328908794357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1758
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5643317a2f36c46a34ca42a3a5d510
+      internalID: -8629215938354473586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1758
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ad606193593c448cd277133eff6b0
+      internalID: 5661173597225064199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1756
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055057c5997e4ca48889eec490c7d36c
+      internalID: -1657481744396502188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1790
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce52516a16eb174cbed258d767148ec
+      internalID: 5339836131710964278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1771
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1a01793af15b4f8b2d45119a3540d
+      internalID: -476508468996921585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1755
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697cd55d73cac2448b8e5e802a0c6c8e
+      internalID: -4039800364563837234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1711
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff89b9587426e47b512575a9c9bc0c
+      internalID: 6622153311453715025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1711
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17271499a64997b49a4b380b2efcee9b
+      internalID: 8124166048800980545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1711
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2f57b945b04c49ba875e56a9bbb08
+      internalID: 95963360643875025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1742
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5ab0a30418884fa04c965c3552c21
+      internalID: -7404545729321213266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1667
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e027ea5d78a14d1429e414d5ea4b3b3f
+      internalID: -1579584721988661271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1667
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04a431c9ffe784fa400dc2b5c135f5
+      internalID: -7221976243651508139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1667
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84c93ec3e89b44d86add9952419da2
+      internalID: 1759025336208600012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1667
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332c22541472ea46a17acccc428ce38
+      internalID: 898218568072696423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1668
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c9bb530cb686046b79cecc784e70f4
+      internalID: -45261852703874414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1667
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad85d13f2a4c54ca4daea728db3182
+      internalID: 9216103827959041201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1667
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb1222b9e350b34db7734ec5491b9ac
+      internalID: 3301463447139170711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1667
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64183d6727211a64c840f34b44809387
+      internalID: -8392075660327905980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1611
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd580068bf45e744b5c486fec7ee395
+      internalID: 809909240092578311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1611
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02961836309f647a387aa04946fcfa
+      internalID: 377380067302234149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1611
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4e2f42c9a1ad419f7fbe07c0906ca
+      internalID: 4744073293420076346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1618
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f4d8aebdfc0b4d8273c2e63f92f1f
+      internalID: 6564289560583261423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1612
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67995013cc3c284faa9d61e75d9966a
+      internalID: 4413286868392212613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1612
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c903263f8c5446a473ac26e105597
+      internalID: 5438599547521692826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1613
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02afa8aa9c11614ea57610ea675f444
+      internalID: -4397824956127837987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1613
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65710c285d5b6304b8da1a682b680719
+      internalID: -167215182303603630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1566
+        width: 104
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fdb2ece1e16d446964705ca0b29bb0
+      internalID: -7393388169708831605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1566
+        width: 156
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a42d16ded7156440a43971777301d3c
+      internalID: 8377714096785229133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1566
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad063321ee73bfb4f8069dc2f93f61c6
+      internalID: -5041447047823905213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1566
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8090801d92a44b8301a95b27f0dff
+      internalID: 4931119505385216351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1566
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa9b92935dd184b8a42e8e6581d469
+      internalID: 3320763925769777434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1566
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd06e1f5d938642479402a45dce22600
+      internalID: -2853501466758370058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1566
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c7d92f4391d2c4c80e1dc71095e566
+      internalID: 6527460911741354361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1566
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2b8a00bbcb04469da77e33474be64
+      internalID: 1027445044517050038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1525
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131c41982811d04589c75decbeb3b27
+      internalID: 2055016113710703364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1525
+        width: 305
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9db46c41dfc8147a943248076c084f
+      internalID: -6358429692671487193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1530
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a00ea9a6f812946b4ad330d2df903b
+      internalID: -8653580655031660740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1476
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2bf7f83f504742b57f35421a6b075
+      internalID: 7529839743200579830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1476
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4de0fb8ac8c44d90a84877ce3cfb0
+      internalID: -7032507669756559594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1476
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308bf0dbf128d684698e8d9b4abba3f6
+      internalID: 1550734682171372461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1476
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b6b4ab556ddfc499b6fb7ffea9dec2
+      internalID: -6266494672053551440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1476
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0a99f4971283b499c519b8c0b65e80
+      internalID: 5299907715525460787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1476
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588cde71e8307146ab8d163f5329f5c
+      internalID: 5916922139646033581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1498
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b20c8e77844c054ea83a5cfd37e5c3e
+      internalID: -138446771969061540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1430
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc15950fe81ea0e439037d5fcb3c3005
+      internalID: 2509447627428329036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1430
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb79acd0789974981a7833aae947e6
+      internalID: 1610948245601339271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1430
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c7a90ef1806b4f8b8e13d424c9037
+      internalID: 716992147878299169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1430
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d405222dd693040be7173627ad4a07
+      internalID: 4964316969070797580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1430
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd48e05b2440241bb794fc10937183
+      internalID: 561755148007352053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1467
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9447b50fff8b42a3e782a9395dbd2
+      internalID: -8182904121251374059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1433
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7eb568699e02c4ba83d419030482b4
+      internalID: 3764434043368027520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1381
+        width: 102
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47d104abb6af974ca0e79f53a792095
+      internalID: 3883512459514008180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1382
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a33f9dd3423942a1e6743805237c3
+      internalID: -2279052623681724877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1382
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8451b8dbab355141b400e1101bf3b2d
+      internalID: 4057992671021575861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1383
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af801b94f1a82043886c552062c6139
+      internalID: -8279716002354062505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1383
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef9beded12ab646b27754de16b9be2
+      internalID: 1041244907498279982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1374
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01cbeed513ceb745b7e584be527c05f
+      internalID: -8709880295443006552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1327
+        width: 495
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412da6abd414fb844af9ee035d925a58
+      internalID: -4212548817468211542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1283
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79171a43e7c9284c8f848946fc9c022
+      internalID: -681518866775757844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1283
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ec6bb0c8097748bc991641902357d
+      internalID: -995080622828004683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1283
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df658aecbc83b4ba8667479c42ffba
+      internalID: 6606647709056441311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1283
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eee8258cb6fb3468e9aa2e98ae4c53
+      internalID: 1558489241214582387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1285
+        width: 180
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4cc61fee894b94897e27cb800f1629
+      internalID: 9219222558796552247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1274
+        width: 56
+        height: 27
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.5799606}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a134f9e9b6b487a4c8d69e2ada96b130
+      internalID: -3885344259366701993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1236
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c09c533403864b939a32b17929ea6
+      internalID: -529735583407149817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1236
+        width: 137
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a590af02ad39a4580015a31a62c28e
+      internalID: 9031345589207806117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1243
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb766cae2bcd78843bc3e963ee58e940
+      internalID: 7859536289255406583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1251
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df577eeb40474d241b4390ab3c4f7669
+      internalID: -831382971365776164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1251
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe120194cbff749b3a2e9cfa3e0414
+      internalID: -2667110397396361437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1251
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167e6c94b8888004bbef28d12743a80e
+      internalID: 3407550010787592312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1251
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d796afb5993c5b046909bd965426f136
+      internalID: -8492606210116859449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1195
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97cd00e5e069284799fdcd241d7e73e
+      internalID: -2157046424950892128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1195
+        width: 182
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce307edc8cd2de4da6afa9c99bc0833
+      internalID: 2559443292229746698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1191
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a8b152fe57e943a1cee16459fc782
+      internalID: -91051499292728500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1147
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa42648266f9241ac961d7e050c179
+      internalID: 2509971459325168430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1146
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e8e30d8cb87c4e8e2a8fd3adc9509
+      internalID: 7624162598582942398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1143
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77bd06c1901b924c809cf3ab49b81e4
+      internalID: -7658078027721771335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1143
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e6a9ee5a632c4d98bc9dc58424484
+      internalID: 3782844600698273535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1143
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe3fce2ada3b649ba5bf639aae0eb9
+      internalID: 7197217883233456065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1143
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3be338a0636cb4a9d0117f58ea4959
+      internalID: 5966611706070198078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1093
+        width: 352
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0566f40379b721a48903df8d6cf8d37e
+      internalID: -4176843217107781730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1100
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fdcf835292fb4cb2732808cb91357
+      internalID: -6703890382382204097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1047
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739aa2dc8443fd408dc2014b559f2f2
+      internalID: 4123655416846868164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1047
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a8103ef3c3e3a45a729f43e9ca690a
+      internalID: -1850237532897916677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1059
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2acae7ece680be489147243afd0f3f2
+      internalID: -80612477206782045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1063
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb80f3fd8453544393e1035cfd28932
+      internalID: 2031633660439207768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1059
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e047c1b963f8e4ca0d4f329319179f
+      internalID: -7602126177539468042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 873
+        width: 495
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e48e3088fe2fc438cb0b699d0fa88f
+      internalID: 3159081519243290598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1025
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ab98e35ac00c419131d7b083ecae5
+      internalID: 2865703664008769809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 963
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba37e2891904b4a83b841647bb2cad
+      internalID: 8424197488237761195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 951
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c70155f9f8a6c4299da5e735f23544
+      internalID: 2408815221063084211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 951
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3714eb52dc4ad5b45aaf9c5a1971e7e5
+      internalID: -4947428402200696699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 951
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fabb83aa32c604185af57adbb59300
+      internalID: -7125483528057860684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 873
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597a4a0b8c00074e905938a683fd63e
+      internalID: -2064492713068967805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 873
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d69dc489a08647903310ef129ade9
+      internalID: 5789224202149262942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 873
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742cf8f7cbc2264980efb4274ab9640
+      internalID: -6730668121487376317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 932
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de4482429d80f745a70e5ce184ed1d9
+      internalID: 5168225350810879799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 932
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c2749385213e4cb1c3e9aa7b04293
+      internalID: -7369270690169645620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 929
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1b949cae5a5047a3716caf78fa476
+      internalID: -1421429663533280598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 928
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48e03bd6a38764dabcd9f2b3cb10a5
+      internalID: -7529081089682175454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 881
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ffaa8013772a4abcb5e1a09a45e11
+      internalID: -3585821199176912020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 872
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804ca9a3a828574cadf96e8b597be7f
+      internalID: 5890410963542663404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 811
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec3968f74fda441a62c168dac2995f
+      internalID: 5615221864515364767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 811
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e484cf049fc06db418f45af44c190a84
+      internalID: -6765634378934312794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 812
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb672683780c71143b977f6fd1150ece
+      internalID: -5806558814466146248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 849
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc78feee08b1174f908484ffc36c954
+      internalID: 2706944056668877177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 833
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d999bbf8d263c5a40963510ecf5b6102
+      internalID: -5926714832181944975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 833
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d204e88c1f1774797acd35f70c1fa0
+      internalID: 4686887535919032053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 838
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a17b95e47bfc4a84e38265482a1b9
+      internalID: -5093355236284756525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 820
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff495ddd4cac1e749b48108598526897
+      internalID: 1452952414176449024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 820
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8c406c17102cc4cb7ab5145d650c0c
+      internalID: 2359464000445393412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 757
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa421a309970c4da400b1d36afdb60
+      internalID: -4763587327378042940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 757
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593bbb0268cbe604a8b5358aa27a227c
+      internalID: 8130647114672262793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 810
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb3ef7886cda04dbfebd19cbae4433
+      internalID: -3923242818834985754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 807
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2c5098fbfbff429107ff9714f3bf9
+      internalID: 8925157758585037143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 758
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c545dc38a3cb46b4f810aa53a372b
+      internalID: 4646224172681452052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 758
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88785cbe472d142884f6f94c6a07a0
+      internalID: -8229320956838632969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 758
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e9492553557d4eab3208e6f90fdb3
+      internalID: 1950559867091433527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 776
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac35b01b050de047a57fa63cd8384e2
+      internalID: 7178006164632753559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 758
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20113b5ccdd92244db6f17bb6155b643
+      internalID: -3874384659360080674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 681
+        width: 499
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181dd090ebe921744afad0f70c72db25
+      internalID: 7782860815776736386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 676
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180ab4dd6c3b48429669a1adf8c11b4
+      internalID: 3180029332180647590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 710
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cc28a5e50d4bd4591d2d402889a59e
+      internalID: 1184098629425942227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 710
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf2c8d767a6384a90de80ac7e71fff
+      internalID: -6086856273434648002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 600
+        width: 123
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27503decd3765cc4a91ddaf93e0c0ec6
+      internalID: -5503241784062486672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 640
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c41715769909e4b8dfed4540298727
+      internalID: 7424599205207506867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 641
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3dedc5cf4119845b3436fa1089e946
+      internalID: 3671566763104574955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 634
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f255a2d8c1f043a4f701c911ed186
+      internalID: -449108119928409599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 664
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcd5edbeeb325445a94a0bfaa94d01a
+      internalID: 2253752049534896504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 649
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885e2fb63ef79b4bb7db6e15713d683
+      internalID: 3314135081530925231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 412
+        width: 550
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f749c61f9e6a0f43a0e98c8b7584128
+      internalID: 408885932921072113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 614
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f52593c4b230bd4aabfc1166dd17bcd
+      internalID: 1682093207804898323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 621
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299cfceb1c036474292e1a8bad6e64a0
+      internalID: 8584977466911379705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 607
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e5077eb83283418b0a8f6eb45b97a
+      internalID: 2900278209831717872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 599
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b270d77ba378e4d8f46e7ee04897cb
+      internalID: 4435277402631402337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 599
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7d174cec14364a9f4ba250459e021
+      internalID: -4824647270934423166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 433
+        width: 169
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57376c3110495b349a5180ecafb17a9e
+      internalID: 575068737105160918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 405
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80710487e272a4dbbf1e2292985ed1
+      internalID: -1685277375178379053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 405
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736d827f06b7f346a7cb44a21527bdc
+      internalID: -2043351212934362256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 403
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b39eea91f330044da314cace2affad5
+      internalID: -2667096692809900792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 396
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4bb8add566d4c458a928c6952c5f04
+      internalID: 6046895553001427041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 400
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a303009ab9c4384cbe7ac46c1472a64
+      internalID: 8127892219651657829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 401
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe3fff129386f4ab39af328d1cdbda
+      internalID: -4680424701483138134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 398
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c76fd82c8bf0e459c64e2049ef73f6
+      internalID: -8612365365511154340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 396
+        width: 150
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb14f4fb8d432a4c94ae69c755e0d63
+      internalID: -5348828466078024718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 393
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3ee2d1bcb7674fba87c6b0a34e21b
+      internalID: -4174868250954832422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 364
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91734b1845f94124c98fa2d9ce12a302
+      internalID: -1086371441367080259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 361
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc0d312bd78596419e92a1e3cb02e57
+      internalID: 3313957850500728566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 361
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec12c523fc19924aa132884b637d745
+      internalID: -2453921782714300970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 364
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346cb4ece90a7d48aba827a0344f9ef
+      internalID: 4917951568926674379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 360
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f295f0dd5f111d043a15c916541b3f89
+      internalID: -6105627603633115158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 360
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47717f6bfdc2544a92a9c29d36bc60d
+      internalID: -3398467216989254975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 364
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc6a716f05a05b45afe8fcc757fcf67
+      internalID: -6673877131057460764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 380
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c6a7a988c8ce4b84cce09af593c49
+      internalID: 1156492743968077874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 326
+        width: 399
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b222ddb3f21079446a3b96b54f31834d
+      internalID: -394105977966169404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 344
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a1f4678eef4443bfa62e552e3a7f2
+      internalID: 653476801328146850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 355
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735789dd8a285b14eaea2b4cf74542f0
+      internalID: 4014803028255662460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275bf0435a39ee49a7b3f44eaa59da9
+      internalID: 3774905146204424990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 325
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464d39855d62b4499a2143e8262c77d
+      internalID: -1288524882772166218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 324
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d816ff875d76ca14db5d7bbb54448f80
+      internalID: -5927386590329016918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 284
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c39f62cbcd29e4a93bf925d329c47c
+      internalID: -8158989716058220827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 284
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6010c81411ace409a5e84ae98a194a
+      internalID: -8806246833392365282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 239
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5757e6f445c054fa3d76a255ea2114
+      internalID: 2733882528057431920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 283
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f1acb17457ede45bb8472332c9c501
+      internalID: 5477434029932111475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 283
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c3d75b07a06d049be33702ed36f236
+      internalID: -8922088281535118730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 245
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0547a9a13f4a438d47094f8f5a299
+      internalID: 6104447534039629811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 238
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce3bc2e7b9fbb42a34306155e7819f
+      internalID: 8802498710224686715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 283
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe70815274c0d04da8a95f933365a61
+      internalID: -5192772205071328454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 283
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762359d2635bbe147b0cd2017e4bf792
+      internalID: 3736978680370905756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 299
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87626e2c57f1a5c4782f0a85942b478e
+      internalID: -8518587886770774192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 299
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa42bce4664244098131030465a889
+      internalID: -929913649787955077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 203
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d714fe918691a84a925c57e9bbbff38
+      internalID: 246942485366695691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 237
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f267a54ac2ac5438e9952b9c1997c5
+      internalID: -1382021987400677065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 239
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4293ddd612eb845b90bc3b0befa35c
+      internalID: -843032153641668306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 249
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2d1d6b912302b40b15bcc148954031
+      internalID: 6522961520315749914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 249
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a715f9c9288b408199cab95af4882
+      internalID: -7715174683934611767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 249
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f63c2406d8eed1459684b1a3ac61b7e
+      internalID: -4889064181500804578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 255
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58fd8f2eecc5f4fabc4a19ba0bcbba
+      internalID: 708495453139537274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 254
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161dfc50e46b0c946a55f8d602458cf3
+      internalID: 8580903759311139726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 251
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9f948f3bfc0b4fa51352fe3e6fed1
+      internalID: -2154860810964310276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 251
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200721252b1a9a488455ab57b52fccc
+      internalID: 4625673952720475449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826de0711de12f04a87ab568e5427725
+      internalID: -4616990364875469127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_247
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcada8ba6a886ba4d9c8e899a4fcd652
+      internalID: -8525082745422489219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_248
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a214b484660e448b6ffdd8b550ba8
+      internalID: 7276108676789723449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_249
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 207
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c78d52e2774f64c8423e890c27c518
+      internalID: -2465213866045097382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_250
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 206
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0dad3a600f814293bd18c0ea10006
+      internalID: 4538322246445894710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_251
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 207
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b25344a8f45748af8d3ccacbeaf47
+      internalID: 685682496059900768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_252
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 207
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94442d51025d34f88bc7be9a64b063
+      internalID: -8423179178131060336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_253
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 206
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73856f4270a407a458c019957a712946
+      internalID: -5076275090376422789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_254
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 204
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e563747fb588443af3dc0075f25145
+      internalID: -3288100132639171989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_255
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 204
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c018218aca1e4699a9507105745ea
+      internalID: 1707495332056200919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_256
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 204
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be02f6385053aa4a8477d9d7baffa17
+      internalID: 3410453140592595861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_257
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 206
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88103bd6ebef1745b6f143f3e170c2c
+      internalID: -4764277489790464578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_258
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 204
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7cd4179f80c8945af170d59b4a8490
+      internalID: 8783648047067526309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_259
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 204
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173a03ad5d801c45b6622e2c518669d
+      internalID: -6795198301070377923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_260
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 204
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e1124c5fa1594bb3e888c18f70525
+      internalID: -4718824274171056640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_261
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 161
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c4e275f140c541925c7cfa9dbcf84
+      internalID: 6996518151564386376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_262
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 161
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13999b81c487e3c488b0ce52f0b41f09
+      internalID: -3699248977557995411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_263
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 162
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3f4f04b979cd48b93313d31b92933
+      internalID: -4185819713305859017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_264
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103a50f23708554d932a0fb8e8323ee
+      internalID: -2734008078575061102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_265
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 162
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ad1d334788534c94a249dbb72c6e8
+      internalID: -1001662708284467429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_266
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 162
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b13469ad2c5c44093ed77e9fbf404e
+      internalID: 3171071461845119780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_267
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 162
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9300ea7a123a42a4e9ea8d57377fc
+      internalID: 7456540557052022533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_268
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 163
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c5624aa58aad04e9663d72fa96f89a
+      internalID: -3561360091684373316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_269
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 162
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc1cf9a09e5484b946b177e7bcf6a8
+      internalID: -2754783237404150595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_270
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 162
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81ac17200712642b320ccaa0ec9b25
+      internalID: 1808453156415025014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_271
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 162
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca797190c19d2ac4bb5a9f9cca9ff8df
+      internalID: -8730019673161031647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_272
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 162
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e005fd3b5c09a849ba89331bc4cf017
+      internalID: -5690424003254803973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_273
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 162
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7b3740939bebd4c9fbdc56fa6731fc
+      internalID: 8085416746083083506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_274
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 161
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81de9097fd51aa4fb33b606884e8e8c
+      internalID: 1065394158859536535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_275
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 161
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb981912d22ffe468093131929c40a9
+      internalID: 5164840682850542499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_276
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444218b95a8ea674ab305c54c0740733
+      internalID: -5691010117560441075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_277
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 114
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864237812038824d9c59ee7d110961f
+      internalID: 6487094268396949938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_278
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ef399fffbf3744b3c7a8274158de5
+      internalID: -9162403700391127966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_279
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098c1628776f62469e133f5a360a19a
+      internalID: -1071954536971509350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_280
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 114
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e9d26536565f459a7adc8663b43bf
+      internalID: 5078443788008072088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_281
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79961eb76a34e48b428b9a5d851c42
+      internalID: 7318977295722335631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_282
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d37f11160dd9564381bd5e7b1f10918
+      internalID: 3882067301488311076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_283
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 145
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada227ebeeb93a479fd448e7693ef29
+      internalID: -6513130775523975256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_284
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecda47bb9da525479c197205e5a83e9
+      internalID: 8651243901471470898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_285
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f841408fed489749a0bb71ff2db6d93
+      internalID: -6574097532992322031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_286
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb224b4abaf4e49a5242d3ae942f83
+      internalID: 2495081642351933357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_287
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 66
+        width: 96
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9541b1829a6d6446b5d4613dd49ff8f
+      internalID: 1929260501771919074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_288
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f143fec08ee614f9ea8445225fe9a9
+      internalID: 8771123796737584885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_289
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 67
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7499b204f489b2e45ab016abab805f49
+      internalID: -4323283605734946527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_290
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cc80ddad4c81c42b174df423f036be
+      internalID: 23853755541949559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_291
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 66
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4125baeaef3c834ebc971f11fb9c893
+      internalID: 8609715515824441323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_292
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 66
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62600785e437b438c7c32daa189475
+      internalID: 3773440843590173225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_293
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 67
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76d944489783d42bd3be78d517c784
+      internalID: -2336957793434125067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_294
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 68
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2f44da56212544ab63862ef93a74f
+      internalID: 401670708667292764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_295
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 52
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909421c14a327844392fd5372c675cf2
+      internalID: -6326025789508402501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_296
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a892faa4d36b489410b866bc5e923
+      internalID: -2573809546350497552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_297
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 38
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31352a9bc9441d946843396ead82c4c8
+      internalID: -5630324118594777222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_298
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 38
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13beceb2462b557489bf53a71d0548ae
+      internalID: -265689284666158672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_299
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f90f2d1793bd545864709e9651577c
+      internalID: -8308204124048027521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_300
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 38
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ccd0a0756cee5479fe6d455d660db5
+      internalID: -761562832437064660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_301
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 38
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a742bdbc146774b8bbfff88d2e0071
+      internalID: 3904521609674429447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_302
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b6edeafb906e44a9655ef437efa587
+      internalID: 4944012957249989026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_303
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 36
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc4a2fc27701f42afe62bc7754d87d
+      internalID: -8917966115885708465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_304
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 38
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0bb5d3e1fa02c4ca90a2064044227d
+      internalID: 5114264227359036821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_305
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 38
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84008ac032a3f4e932d251f4e4fa7e
+      internalID: 3258801855261597591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_306
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 38
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451fe95027c6aa54988ab35e988d0617
+      internalID: 2610201488562701195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_307
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 38
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad876c75ebe6054682175aea165088c
+      internalID: -3095433053781050982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_308
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 36
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e57d77d6293e5b429bd7e7513584303
+      internalID: -5982105945410733764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_309
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 38
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789deebd89f4064d8c86577aaa05d8b
+      internalID: -2837882931406230782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_310
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 36
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd41218b2b3884e8222c6f79e76b36
+      internalID: -5151601135759920780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_311
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 38
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108d24d9c5c601d4191221eb234eb096
+      internalID: 4493454765484729949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_312
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4a8fc86a63034d92a96b773b81af5
+      internalID: 5973024699978415205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_313
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca97e8abc09be4d82b920eeea43468
+      internalID: 8806544519397300539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_314
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e66304073f924b866392a4cedc6c1
+      internalID: -7100456003993419658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_315
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 23
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab14d4ae3f50af244aa21642bbcad087
+      internalID: -6490455952959165713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_316
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ecd2a23a10db4b8ab711366f63872
+      internalID: 878875462489968579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_317
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 23
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48372cadf4f33374fa033efd8db35045
+      internalID: 4672707715058647404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_318
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654a161d726e9f94cac02bedbf963d0d
+      internalID: 7832538872773951870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_319
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fe30649eb0348408cce06d9ba91538
+      internalID: -5845223766586308344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_320
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da00d52e495e7fd49b82314b880cd11c
+      internalID: -103520671311846105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_321
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 23
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59409233d9d7d24b8165963a30098b9
+      internalID: -9131160877391010116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_322
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2472c5375c4423b498cefdf6f2fc80fa
+      internalID: 850927900856711879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_323
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca88a3380e3ea54398867323a7ee3d1
+      internalID: 938774020624279024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_324
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40231194f845e2f48ab1a45e0f8ef949
+      internalID: -1098684501471215426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_325
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba29d028f8ac18a4f86cd17de9f4f1fa
+      internalID: -1398605209133189447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_326
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc29824ba6c8b24084603f3bb0dc8e8
+      internalID: 3211135498918432165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_327
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11452386cd3c934283d5a53fb216c86
+      internalID: 2807410505792741828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_328
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053853e9978479940a66e2827bb5f1c5
+      internalID: -7683688513678167185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_329
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123bdcb53b60a5f4d981b322c4565c88
+      internalID: 4732403541253730492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tails_Spritesheet_330
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac945d5b4ad0a448ce515b3a58f406
+      internalID: -4617768207327290003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
