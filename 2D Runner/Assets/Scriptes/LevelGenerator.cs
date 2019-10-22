@@ -36,23 +36,17 @@ public class LevelGenerator : MonoBehaviour
 
         if (firstSegment)
         {
-            validSegments.Add("TallSegment");
-            validSegments.Add("T2S");
+            validSegments.Add("BackgroundPrefab");
+            validSegments.Add("Background");
             offset = spawnPoint;
         }
         else
         {
             switch (lastBaseObject.tag)
             {
-                case "SmallSegment":
-                case "T2S":
-                    validSegments.Add("SmallSegment");
-                    validSegments.Add("S2T");
-                    break;
-                case "TallSegment":
-                case "S2T":
-                    validSegments.Add("TallSegment");
-                    validSegments.Add("T2S");
+                case "BackgroundPrefab":
+                    validSegments.Add("BackgroundPrefab");
+                    validSegments.Add("BackgroundPrefab");
                     break;
             }
             offset += lastBaseObject.transform.position;
