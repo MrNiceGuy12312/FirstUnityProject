@@ -36,55 +36,51 @@ public class LevelGenerator : MonoBehaviour
 
         if (firstSegment)
         {
-            validSegments.Add("OutdoorObstacles");
-            validSegments.Add("OutdoorPrefab");
-            validSegments.Add("RightUnderGroundToGrass");
-            validSegments.Add("LeftUnderGroundToGrass");
+            validSegments.Add("FlatSegment");
+            validSegments.Add("FlatSegmentOutdoor1");
+            validSegments.Add("FlatToUndergroundSegment");
+            validSegments.Add("FlatTowerSegment");
+            validSegments.Add("UndergroundtoFlatSegement");
             validSegments.Add("RightUpvertical");
-            validSegments.Add("StraightUnderGroundPrefab");
+            validSegments.Add("UndergroundtoFlatSegement1");
             offset = spawnPoint;
         }
         else
         {
             switch (lastBaseObject.tag)
             {
+                case "FlatSegment":
+                    validSegments.Add("FlatSegmentOutdoor1");
+                    break;
+                case "FlatSegmentOutdoor1":
+                    validSegments.Add("OutdoorObstacles");
+                    validSegments.Add("FlatSegment");
+                    break;
                 case "OutdoorObstacles":
-                     validSegments.Add("OutdoorPrefab");
+                    validSegments.Add("FlatToUndergroundSegment");
                     break;
-                case "OutdoorPrefab":
-                    validSegments.Add("OutdoorObstacles");
-                    validSegments.Add("LeftUnderGroundToGrass");
+                case "FlatToUndergroundSegment":
+                    validSegments.Add("UndergroundtoFlatSegement");
                     break;
-                case "RightUnderGroundToGrass":
-                    validSegments.Add("LeftUnderGroundToGrass");
+                case "UndergroundtoFlatSegement":
+                    validSegments.Add("FlatSegmentOutdoor1");
                     break;
-                case "LeftUnderGroundToGrass":
-                     validSegments.Add("StraightUnderGroundPrefab");
-                    validSegments.Add("OutdoorObstacles");
-                    break;
-                case "RightUpvertical":
-                    validSegments.Add("RightUpvertical 1");
-                    validSegments.Add("StraightUnderGroundPrefab");
-                    break;
-                case "StraightUnderGroundPrefab":                
-                    validSegments.Add("RightUpvertical 1");
+
                    
-                    break;
             }
             offset += lastBaseObject.transform.position;
-        }
 
-        int randomIndex = Random.Range(0, validSegments.Count);
+            int randomIndex = Random.Range(0, validSegments.Count);
 
-        foreach (GameObject go in basePrefabs)
-        {
-            if(go.tag == validSegments[randomIndex])
+            foreach (GameObject go in basePrefabs)
             {
-                lastBaseObject = Instantiate(go, offset, go.transform.rotation);
-                lastBaseObject.transform.parent = gameObject.transform;
-                break;
+                if (go.tag == validSegments[randomIndex])
+                {
+                    lastBaseObject = Instantiate(go, offset, go.transform.rotation);
+                    lastBaseObject.transform.parent = gameObject.transform;
+                    break;
+                }
             }
-        }
 
+        }        
     }
-}

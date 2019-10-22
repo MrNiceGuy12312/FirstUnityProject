@@ -4,13 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - LeftUnderGroundToGrass
-  - OutdoorObstacles
-  - Undefined
-  - RightUnderGroundToGrass
-  - OutdoorPrefab
+  - FlatSegment
+  - FlatSegmentOutdoor1
+  - FlatToUndergroundSegment
+  - FlatTowerSegment
+  - UndergroundtoFlatSegement
   - RightUpvertical
-  - StraightUnderGroundPrefab
+  - UndergroundtoFlatSegement1
   layers:
   - Default
   - TransparentFX
