@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 
     public float moveSpeed = 1.0f;
     public float jumpForce = 1.0f;
-
+	const bool SONIC = false, TAILS = false, KNUCKLES = false;
     private bool onGround = false;
     private bool letGoOfJump = false;
     private bool isFalling = true;
@@ -15,7 +15,21 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if(SONIC)
+		{
+			moveSpeed = 12.0f;
+			jumpForce = 8.0f;
+		}
+		else if(TAILS)
+		{
+			moveSpeed = 8.0f;
+			jumpForce = 12.0f;
+		}
+		else if(KNUCKLES)
+		{
+			moveSpeed = 8.0f;
+			jumpForce = 8.0f;
+		}
     }
 
     // Update is called once per frame

@@ -8,6 +8,10 @@ TagManager:
   - SmallSegment
   - T2S
   - TallSegment
+  - Ground
+  - SpeedKeeper
+  - SmallPit
+  - TallPit
   layers:
   - Default
   - TransparentFX

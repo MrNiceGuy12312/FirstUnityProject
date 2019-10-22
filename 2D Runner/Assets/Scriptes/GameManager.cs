@@ -9,10 +9,9 @@ public class GameManager : MonoBehaviour
 
     private float gameSpeed = 1.0f;
     public float GameSpeed { get { return gameSpeed; } }
-
-    public float speedIncrease = 0.01f;
-
-    private void Awake()
+    public float speedIncrease = 0.05f;
+    
+	private void Awake()
     {
         if(instance != null && instance!= this)
         {

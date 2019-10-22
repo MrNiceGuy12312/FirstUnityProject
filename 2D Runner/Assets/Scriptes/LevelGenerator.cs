@@ -47,12 +47,20 @@ public class LevelGenerator : MonoBehaviour
                 case "T2S":
                     validSegments.Add("SmallSegment");
                     validSegments.Add("S2T");
+                    validSegments.Add("SmallPit");
                     break;
                 case "TallSegment":
                 case "S2T":
                     validSegments.Add("TallSegment");
                     validSegments.Add("T2S");
+                    validSegments.Add("TallPit");
                     break;
+				case "SmallPit":
+					 validSegments.Add("SmallSegment");
+				break;
+				case "TallPit":
+					 validSegments.Add("TallSegment");
+				break;
             }
             offset += lastBaseObject.transform.position;
         }
