@@ -13,19 +13,19 @@ public class Menu : MonoBehaviour
     }
     public void CharacterSelection ()
 {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    SceneManager.LoadScene(1);
 }
     public void Options ()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene( 2);
     }
     public void HowToPlay ()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+        SceneManager.LoadScene( 3);
     }
     public void Play ()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 4);
+        SceneManager.LoadScene( 4);
     }
 
     public void QuitGame ()
