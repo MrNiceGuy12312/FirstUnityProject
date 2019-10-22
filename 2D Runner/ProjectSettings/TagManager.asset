@@ -12,6 +12,7 @@ TagManager:
   - SpeedKeeper
   - SmallPit
   - TallPit
+  - DeathFloor
   layers:
   - Default
   - TransparentFX

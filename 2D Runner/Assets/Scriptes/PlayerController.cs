@@ -77,13 +77,13 @@ public class PlayerController : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        if(collision.gameObject.tag == "Ground" || collision.gameObject.tag == "Celing" || collision.gameObject.tag == "UpWall")
+        if(collision.gameObject.tag == "Ground")
         {
             onGround = true;
         }
-        else
+        else if(collision.gameObject.tag == "DeathFloor")
         {
-            Debug.Log("Ha you suck");
+            Debug.Log("PLAYER DEATH");
         }
     }
 
