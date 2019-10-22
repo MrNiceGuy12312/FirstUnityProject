@@ -16,7 +16,7 @@ public class LevelGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        spawnPoint = new Vector3(30, 0, 0);
+        spawnPoint = new Vector3(0, 0, 0);
         CreateNewSegment(true);
     }
 
@@ -36,17 +36,39 @@ public class LevelGenerator : MonoBehaviour
 
         if (firstSegment)
         {
-            validSegments.Add("BackgroundPrefab");
-            validSegments.Add("Background");
+            validSegments.Add("OutdoorObstacles");
+            validSegments.Add("OutdoorPrefab");
+            validSegments.Add("RightUnderGroundToGrass");
+            validSegments.Add("LeftUnderGroundToGrass");
+            validSegments.Add("RightUpvertical");
+            validSegments.Add("StraightUnderGroundPrefab");
             offset = spawnPoint;
         }
         else
         {
             switch (lastBaseObject.tag)
             {
-                case "BackgroundPrefab":
-                    validSegments.Add("BackgroundPrefab");
-                    validSegments.Add("BackgroundPrefab");
+                case "OutdoorObstacles":
+                     validSegments.Add("OutdoorPrefab");
+                    break;
+                case "OutdoorPrefab":
+                    validSegments.Add("OutdoorObstacles");
+                    validSegments.Add("LeftUnderGroundToGrass");
+                    break;
+                case "RightUnderGroundToGrass":
+                    validSegments.Add("LeftUnderGroundToGrass");
+                    break;
+                case "LeftUnderGroundToGrass":
+                     validSegments.Add("StraightUnderGroundPrefab");
+                    validSegments.Add("OutdoorObstacles");
+                    break;
+                case "RightUpvertical":
+                    validSegments.Add("RightUpvertical 1");
+                    validSegments.Add("StraightUnderGroundPrefab");
+                    break;
+                case "StraightUnderGroundPrefab":                
+                    validSegments.Add("RightUpvertical 1");
+                   
                     break;
             }
             offset += lastBaseObject.transform.position;

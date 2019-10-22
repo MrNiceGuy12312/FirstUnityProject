@@ -4,10 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - S2T
-  - SmallSegment
-  - T2S
-  - TallSegment
+  - LeftUnderGroundToGrass
+  - OutdoorObstacles
+  - Undefined
+  - RightUnderGroundToGrass
+  - OutdoorPrefab
+  - RightUpvertical
+  - StraightUnderGroundPrefab
   layers:
   - Default
   - TransparentFX
