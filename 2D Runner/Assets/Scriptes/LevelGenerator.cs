@@ -48,18 +48,30 @@ public class LevelGenerator : MonoBehaviour
                     validSegments.Add("SmallSegment");
                     validSegments.Add("S2T");
                     validSegments.Add("SmallPit");
+                    validSegments.Add("SmallWall");
                     break;
                 case "TallSegment":
                 case "S2T":
                     validSegments.Add("TallSegment");
                     validSegments.Add("T2S");
                     validSegments.Add("TallPit");
+					validSegments.Add("TallWall");
                     break;
 				case "SmallPit":
 					 validSegments.Add("SmallSegment");
 				break;
 				case "TallPit":
 					 validSegments.Add("TallSegment");
+				break;
+				case "SmallWall":
+					validSegments.Add("SmallWall");
+					validSegments.Add("SmallSegment");
+					validSegments.Add("S2T");
+				break;
+				case "TallWall":
+					validSegments.Add("TallWall");
+					validSegments.Add("TallSegment");
+					validSegments.Add("T2S");
 				break;
             }
             offset += lastBaseObject.transform.position;
