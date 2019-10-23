@@ -16,17 +16,19 @@ public class LevelGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        spawnPoint = new Vector3(0, 0, 0);
+        spawnPoint = new Vector3(30, 0, 0);
         CreateNewSegment(true);
     }
 
     // Update is called once per frame
     void LateUpdate()
     {
-        if(lastBaseObject.transform.position.x - spawnPoint.x <= -TUNNEL_WIDTH)
+        if (lastBaseObject.transform.position.x - spawnPoint.x <= -TUNNEL_WIDTH)
         {
             CreateNewSegment();
+            Debug.Log("sup fucker");
         }
+     
     }
 
     private void CreateNewSegment(bool firstSegment = false)
@@ -41,8 +43,6 @@ public class LevelGenerator : MonoBehaviour
             validSegments.Add("FlatToUndergroundSegment");
             validSegments.Add("FlatTowerSegment");
             validSegments.Add("UndergroundtoFlatSegement");
-            validSegments.Add("RightUpvertical");
-            validSegments.Add("UndergroundtoFlatSegement1");
             offset = spawnPoint;
         }
         else
@@ -53,22 +53,16 @@ public class LevelGenerator : MonoBehaviour
                     validSegments.Add("FlatSegmentOutdoor1");
                     break;
                 case "FlatSegmentOutdoor1":
-                    validSegments.Add("OutdoorObstacles");
-                    validSegments.Add("FlatSegment");
-                    break;
-                case "OutdoorObstacles":
                     validSegments.Add("FlatToUndergroundSegment");
                     break;
                 case "FlatToUndergroundSegment":
                     validSegments.Add("UndergroundtoFlatSegement");
                     break;
-                case "UndergroundtoFlatSegement":
+                case "UndergroundtoFlatSegedment":
                     validSegments.Add("FlatSegmentOutdoor1");
                     break;
-
-                   
             }
-            offset += lastBaseObject.transform.position;
+           offset += lastBaseObject.transform.position;
 
             int randomIndex = Random.Range(0, validSegments.Count);
 
@@ -82,5 +76,6 @@ public class LevelGenerator : MonoBehaviour
                 }
             }
 
-        }        
+        }
     }
+}
