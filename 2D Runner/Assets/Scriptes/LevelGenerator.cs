@@ -40,9 +40,6 @@ public class LevelGenerator : MonoBehaviour
         {
             validSegments.Add("FlatSegment");
             validSegments.Add("FlatSegmentOutdoor1");
-            validSegments.Add("FlatToUndergroundSegment");
-            validSegments.Add("FlatTowerSegment");
-            validSegments.Add("UndergroundtoFlatSegement");
             offset = spawnPoint;
         }
         else
@@ -50,16 +47,14 @@ public class LevelGenerator : MonoBehaviour
             switch (lastBaseObject.tag)
             {
                 case "FlatSegment":
+                    validSegments.Add("FlatSegment");
                     validSegments.Add("FlatSegmentOutdoor1");
+                    validSegments.Add("T2S");
                     break;
                 case "FlatSegmentOutdoor1":
-                    validSegments.Add("FlatToUndergroundSegment");
-                    break;
-                case "FlatToUndergroundSegment":
-                    validSegments.Add("UndergroundtoFlatSegement");
-                    break;
-                case "UndergroundtoFlatSegedment":
+                    validSegments.Add("FlatSegment");
                     validSegments.Add("FlatSegmentOutdoor1");
+                    break;
                 case "SmallSegment":
                 case "T2S":
                     validSegments.Add("SmallSegment");
@@ -73,6 +68,8 @@ public class LevelGenerator : MonoBehaviour
                     validSegments.Add("T2S");
                     validSegments.Add("TallPit");
 					validSegments.Add("TallWall");
+					validSegments.Add("FlatSegment");
+                    validSegments.Add("FlatSegmentOutdoor1");
                     break;
 				case "SmallPit":
 					 validSegments.Add("SmallSegment");
@@ -91,20 +88,19 @@ public class LevelGenerator : MonoBehaviour
 					validSegments.Add("T2S");
 				break;
             }
-           offset += lastBaseObject.transform.position;
+            offset += lastBaseObject.transform.position;
+        }
+       
+        int randomIndex = Random.Range(0, validSegments.Count);
 
-            int randomIndex = Random.Range(0, validSegments.Count);
-
-            foreach (GameObject go in basePrefabs)
+        foreach (GameObject go in basePrefabs)
+        {
+            if (go.tag == validSegments[randomIndex])
             {
-                if (go.tag == validSegments[randomIndex])
-                {
-                    lastBaseObject = Instantiate(go, offset, go.transform.rotation);
-                    lastBaseObject.transform.parent = gameObject.transform;
-                    break;
-                }
+                lastBaseObject = Instantiate(go, offset, go.transform.rotation);
+                lastBaseObject.transform.parent = gameObject.transform;
+                break;
             }
-
         }
     }
 }
