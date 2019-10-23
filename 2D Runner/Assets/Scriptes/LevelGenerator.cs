@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -22,10 +23,12 @@ public class LevelGenerator : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        if(lastBaseObject.transform.position.x - spawnPoint.x <= -TUNNEL_WIDTH)
+        if (lastBaseObject.transform.position.x - spawnPoint.x <= -TUNNEL_WIDTH)
         {
             CreateNewSegment();
+            Debug.Log("sup fucker");
         }
+     
     }
 
     private void CreateNewSegment(bool firstSegment = false)
@@ -35,25 +38,28 @@ public class LevelGenerator : MonoBehaviour
 
         if (firstSegment)
         {
-            validSegments.Add("TallSegment");
-            validSegments.Add("T2S");
+            validSegments.Add("FlatSegment");
+            validSegments.Add("FlatSegmentOutdoor1");
+            validSegments.Add("FlatToUndergroundSegment");
+            validSegments.Add("FlatTowerSegment");
+            validSegments.Add("UndergroundtoFlatSegement");
             offset = spawnPoint;
         }
         else
         {
             switch (lastBaseObject.tag)
             {
-                case "SmallSegment":
-                case "T2S":
-                    validSegments.Add("SmallSegment");
-                    validSegments.Add("S2T");
-                    validSegments.Add("SmallPit");
+                case "FlatSegment":
+                    validSegments.Add("FlatSegmentOutdoor1");
                     break;
-                case "TallSegment":
-                case "S2T":
-                    validSegments.Add("TallSegment");
-                    validSegments.Add("T2S");
-                    validSegments.Add("TallPit");
+                case "FlatSegmentOutdoor1":
+                    validSegments.Add("FlatToUndergroundSegment");
+                    break;
+                case "FlatToUndergroundSegment":
+                    validSegments.Add("UndergroundtoFlatSegement");
+                    break;
+                case "UndergroundtoFlatSegedment":
+                    validSegments.Add("FlatSegmentOutdoor1");
                     break;
 				case "SmallPit":
 					 validSegments.Add("SmallSegment");
@@ -62,20 +68,20 @@ public class LevelGenerator : MonoBehaviour
 					 validSegments.Add("TallSegment");
 				break;
             }
-            offset += lastBaseObject.transform.position;
-        }
+           offset += lastBaseObject.transform.position;
 
-        int randomIndex = Random.Range(0, validSegments.Count);
+            int randomIndex = Random.Range(0, validSegments.Count);
 
-        foreach (GameObject go in basePrefabs)
-        {
-            if(go.tag == validSegments[randomIndex])
+            foreach (GameObject go in basePrefabs)
             {
-                lastBaseObject = Instantiate(go, offset, go.transform.rotation);
-                lastBaseObject.transform.parent = gameObject.transform;
-                break;
+                if (go.tag == validSegments[randomIndex])
+                {
+                    lastBaseObject = Instantiate(go, offset, go.transform.rotation);
+                    lastBaseObject.transform.parent = gameObject.transform;
+                    break;
+                }
             }
-        }
 
+        }
     }
 }

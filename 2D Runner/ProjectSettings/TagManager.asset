@@ -13,6 +13,13 @@ TagManager:
   - SmallPit
   - TallPit
   - DeathFloor
+  - FlatSegment
+  - FlatSegmentOutdoor1
+  - FlatToUndergroundSegment
+  - FlatTowerSegment
+  - UndergroundtoFlatSegement
+  - RightUpvertical
+  - UndergroundtoFlatSegement1
   layers:
   - Default
   - TransparentFX
